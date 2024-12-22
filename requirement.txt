@@ -1,0 +1,9 @@
+# requirements.txt
+numpy
+Pandas
+seaborn
+matplotlib.pyplot
+nltk
+wordcloud
+textblob
+
